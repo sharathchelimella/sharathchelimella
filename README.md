@@ -164,7 +164,7 @@ Currently pursuing B.Tech CSE at **Lovely Professional University** and actively
 
 | Platform | Profile | Achievement |
 |----------|---------|-------------|
-| 🟨 LeetCode | [sharathchelimella](https://leetcode.com/sharathchelimella/) | 100+ Problems Solved |
+| 🟨 LeetCode | [sharathchelimella](https://leetcode.com/u/IsNhN5A7nZ/) | 100+ Problems Solved |
 | 🟩 HackerRank | [sharathchelimella](https://www.hackerrank.com/sharathchelimella) | ⭐⭐⭐⭐⭐ SQL · ⭐⭐⭐⭐ Java |
 | 🟧 GeeksforGeeks | [sharathchelimella](https://auth.geeksforgeeks.org/user/sharathchelimella) | DSA Practice |
 | 🔵 CodeChef | [sharathchelimella](https://www.codechef.com/users/sharathchelimella) | Competitive Coding |
